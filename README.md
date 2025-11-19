@@ -7,7 +7,7 @@ you hire a translator or an interpreter? While these terms are often used
 interchangeably, they represent two distinct professions. 
 Mode of Communication: Written vs. 
 Spoken 
-The primary difference lies in how they work: 
+The primary difference lies in how they work:
 ● Translators deal with written content. They translate documents, websites, 
 books, certificates, and more from one language to another. 
 ● Interpreters handle spoken communication in real-time. They work in settings 
